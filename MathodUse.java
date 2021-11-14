@@ -27,3 +27,6 @@ class MathodUse3{
     
     
 }
+class a{
+    
+}
